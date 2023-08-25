@@ -1,0 +1,26 @@
+*{
+        margin: 0;
+        padding: 0;
+
+}
+.container-fluid{
+   /* background-image: url("/public/netflixBg.jpeg");
+    background-size:cover;
+    color: white; */
+    font-weight: bold;
+
+    height: 100vh;
+    
+    
+
+    .box{
+        background-color: rgba(0, 0, 0, 0.6);
+        height:100vh;
+        width: 100vw;
+        
+    }
+    section{
+        height:  400px;
+        
+    }
+}
